@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../bin"
+		},
+		{
+			"path": "../core"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../include"
+		},
+		{
+			"path": "../lib"
+		},
+		{
+			"path": "../venv"
+		}
+	]
+}
